@@ -1,0 +1,13 @@
+@@ -4,3 +4,16 @@ git clone <repository url> : to clone repository to our local machine.
+git add <file> : to add file into cloned folder.
+git commit -m "any tag or massege" : to commit the added file to repository.
+git push : to send the commited repository to github server or website from local server.
+
+
+Summery: 
+(What we have learn on lecture - 14)
+
+We have learn about visual studio code(aslo called VS code) and try to understand the application of  VS cde. VS code is kind of code editor and it is very fast. This editor is uesful for multiple languages scripts like markdown, html, css, python, java, c++, etc. It has many extentions with increases the coding or editing speed and visualising the our works. We have learn that we can open the github repository in VS code, visualise the content and edit the content then we can also commit and push the changes or mofifications to our github server. We can run or access the content in more appropriate manner in VS code as we have several options at the top menu of VS code. 
+
+We have learn about useful extentions of VS code for our future uses. 
+Fist we learnt about the extention "markdown all in one". It has so many advantages and options to work with markdown files. One of the advantage is that we can preview our work or final output of for our script in right of our script with this extantion, simultaneously after coding modifiying scripts on VS code. We don't need to post our script to the the server to get or verify the final result. 
